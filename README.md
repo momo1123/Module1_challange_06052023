@@ -6,6 +6,7 @@ Github URL: https://github.com/momo1123/Module1_challange_06052023
 
 Screenshot of the application:
 
-(Module1_challange_06052023/02-Challenge/Develop/assets/images/mmohsin - Horiseon - .png)
+[Project Link](/Module1_challange_06052023/02-Challenge/Develop/assets/images/mmohsin%20-%20Horiseon.png)
+
 
 
