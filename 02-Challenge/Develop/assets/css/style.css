@@ -1,13 +1,16 @@
+/* the (*) applies to all of the elements which sets the padding/margin/box-sizing*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* This applies to the body element of the html */
 body {
     background-color: #d9dcd6;
 }
 
+/* This applies to the header element */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,6 +31,7 @@ These are some of the easy examples of setting classes.*/
     color: #d9dcd6;
 }
 
+/* This applies to the header > nav element of the index.html */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -36,10 +40,12 @@ These are some of the easy examples of setting classes.*/
     font-size: 20px;
 }
 
+/* This class applies to the ul which is inside of nav which is inside of header */
 .header nav ul {
     list-style-type: none;
 }
 
+/* This is the same concept as above ^ (Follows heiarchy) */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,10 +56,12 @@ a {
     text-decoration: none;
 }
 
+/* This sets all the p elements font size to 16px */
 p {
     font-size: 16px;
 }
 
+/* This class is meant for the picture (the hero) */
 .hero {
     height: 1700px;
     width: 100%;
@@ -63,6 +71,7 @@ p {
     background-position: center;
 }
 
+/* This applies to the images and sets the spacing/placement of that image  */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -79,6 +88,7 @@ p {
     margin-left: 20px;
 }
 
+/* This class was set to control the div which is held at the right of the index page */
 .benefits {
     margin-right: 20px;
     padding: 120px;
