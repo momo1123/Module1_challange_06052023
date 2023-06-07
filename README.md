@@ -1,12 +1,13 @@
 # Module1_challange_06052023
-This Module 1 challenge repositary is created to complete all 'Acceptance Criteria' part of the challenge 01. The code consists of Horiseon website which includes the best practice of Semantic HTML elements, multiple examples of classes as well as images/href. 
-Below is the link for the project as well as a screenshot of the page (project).
+This Module 1 challenge repositary is created to complete all 'Acceptance Criteria' part of the challenge 01. 
+The code is a basic html which holds certain basic style.css classes and a html file. 
+The style.css is configured in such way where each element has it's own styling set, something to note (there are no variables set).To add on, each element has been configured to the basic of margin/size,font,etc.
+Please reach out to me if this needs any more clarity.
+Thank You!
 
 Github URL: https://github.com/momo1123/Module1_challange_06052023
 
-Screenshot of the application:
-
-[Project Link](../Module1_challange_06052023/02-Challenge/Develop/assets/images/mmohsin%20-%20Horiseon.png)
+Screenshot of the application: [Screenshot](../Module1_challange_06052023/02-Challenge/Develop/assets/images/mmohsin%20-%20Horiseon.png)
 
 
 
