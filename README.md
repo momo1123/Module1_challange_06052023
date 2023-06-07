@@ -7,7 +7,7 @@ Thank You!
 
 Github URL: https://github.com/momo1123/Module1_challange_06052023
 
-Screenshot of the application: [Screenshot](../Module1_challange_06052023/02-Challenge/Develop/assets/images/mmohsin%20-%20Horiseon.png)
+Screenshot of the application: [Screenshot](./02-Challenge/Develop/assets/images/mmohsin%20-%20Horiseon.png)
 
 Application [Link](https://momo1123.github.io/Module1_challange_06052023/02-Challenge/Develop/index.html)
 
